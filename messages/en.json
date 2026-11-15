@@ -1,0 +1,114 @@
+{
+  "language": {
+    "title": "Choose your language",
+    "continue": "Continue",
+    "brand": "THINK AGRI",
+    "subtitle": "Select the language you are comfortable with."
+  },
+  "interests": {
+    "title": "What do you work with?",
+    "help": "Choose all the communities you would like to hear from.",
+    "continue": "Continue",
+    "back": "Back"
+  },
+  "details": {
+    "title": "A little about you",
+    "help": "Share your details so we can connect you with the right communities.",
+    "fullName": "Your name",
+    "namePlaceholder": "Enter your name",
+    "pincode": "PIN code",
+    "pincodePlaceholder": "Enter 6-digit PIN code",
+    "phone": "Mobile number",
+    "phoneHelp": "We’ll use this only to help connect you with the communities you choose.",
+    "consent": "I agree to be contacted about the farmer communities I select.",
+    "submit": "Show my communities",
+    "back": "Back",
+    "pleaseWait": "Please wait…"
+  },
+  "validation": {
+    "required": "Please complete the required fields.",
+    "consentRequired": "Please agree before continuing.",
+    "interestsRequired": "Please select at least one farming interest.",
+    "nameRequired": "Please enter your name.",
+    "nameInvalid": "Enter a valid name using letters only.",
+    "phoneRequired": "Please enter your 10-digit mobile number.",
+    "phoneInvalid": "Enter a valid 10-digit Indian mobile number.",
+    "pincodeRequired": "PIN code is required.",
+    "invalidPincode": "Enter a valid 6-digit Indian PIN code."
+  },
+  "communities": {
+    "title": "Your farmer communities",
+    "join": "Join WhatsApp",
+    "linkSoon": "Invite link will be added soon",
+    "edit": "Change my choices",
+    "noGroups": "No communities are listed for this interest yet."
+  },
+  "categories": {
+    "agriculture": {
+      "title": "Crop farming",
+      "description": "Field crops, seeds & growing",
+      "communityName": "Crop Growers Circle",
+      "communityDetail": "Seasonal advice, crop practices and market conversations."
+    },
+    "dairy": {
+      "title": "Dairy farming",
+      "description": "Cattle, milk & animal care",
+      "communityName": "Dairy Farmers Network",
+      "communityDetail": "Animal care, feed, milk quality and dairy tips."
+    },
+    "poultry": {
+      "title": "Poultry farming",
+      "description": "Chickens, eggs & farm care",
+      "communityName": "Poultry Farmers Circle",
+      "communityDetail": "Poultry care, feed, flock health and practical ideas."
+    },
+    "goat": {
+      "title": "Sheep & goat",
+      "description": "Small livestock & breeding",
+      "communityName": "Sheep & Goat Farmers",
+      "communityDetail": "Breeding, grazing, health and livestock management."
+    },
+    "fishery": {
+      "title": "Fish farming",
+      "description": "Ponds, fish & aquaculture",
+      "communityName": "Fish Farmers Network",
+      "communityDetail": "Pond management, water quality and fish health."
+    },
+    "beekeeping": {
+      "title": "Beekeeping",
+      "description": "Honey, hives & pollination",
+      "communityName": "Beekeepers Community",
+      "communityDetail": "Hive care, honey production and pollination."
+    },
+    "organic": {
+      "title": "Organic farming",
+      "description": "Natural inputs & soil health",
+      "communityName": "Organic Growers Circle",
+      "communityDetail": "Soil health, composting and natural growing methods."
+    },
+    "farm-machinery": {
+      "title": "Farm machinery",
+      "description": "Equipment, tools & maintenance",
+      "communityName": "Farm Equipment Exchange",
+      "communityDetail": "Equipment use, maintenance and local know-how."
+    }
+  },
+  "languageNames": {
+    "te": {
+      "native": "తెలుగు",
+      "english": "Telugu"
+    },
+    "en": {
+      "native": "English",
+      "english": "English"
+    },
+    "kn": {
+      "native": "ಕನ್ನಡ",
+      "english": "Kannada"
+    },
+    "hi": {
+      "native": "हिन्दी",
+      "english": "Hindi"
+    }
+  }
+}
